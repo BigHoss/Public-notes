@@ -1,6 +1,6 @@
 ---
 share: "true"
-category: Obsidian Tray Extended
+category: '"Obsidian Tray Extended"'
 ---
 # Obsidian Plugin - Tray Extended
 As i use Obsidian as my Second brain and with my ai work quite heavily i used the [Tray Plugin](https://github.com/dragonwocky/obsidian-tray) but as that went stale, i forked it and made it work again.
