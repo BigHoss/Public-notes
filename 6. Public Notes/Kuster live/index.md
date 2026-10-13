@@ -5,7 +5,7 @@ share: "true"
 
 This is the page of Raphael Kuster
 
-![portait.png|250](./attachments/RAK_02.png)
+![portait.png|250](../../attachments/RAK_02.png)
 
 He does a lot of things.
 
