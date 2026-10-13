@@ -25,4 +25,4 @@ Software Developer (and learning architecture) at [Konzept IS](https://konzep-is
 
 ### Software Development & stuff
 #### Obsidian Plugins
-- [Obsidian Tray Extended](./Obsidian%20Tray%20Extended.md)
+- [Obsidian Tray Extended](./Obsidian%20Tray%20Extended/index.md)
