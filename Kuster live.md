@@ -1,12 +1,12 @@
 ---
 share: "true"
-ccategors:
+category: '""'
 ---
 # Kuster.live
 
 This is the page of Raphael Kuster
 
-![portait.png|250](./attachments/RAK_02.png)
+![portait.png|250](./6.%20Public%20Notes/Kuster%20live/attachments/RAK_02.png)
 
 He does a lot of things.
 
@@ -25,4 +25,4 @@ Software Developer (and learning architecture) at [Konzept IS](https://konzep-is
 
 ### Software Development & stuff
 #### Obsidian Plugins
-- [Obsidian Tray Extended](./Obsidian%20Tray%20Extended/index.md)
+- [Obsidian Tray Extended](./Obsidian%20Tray%20Extended.md)
